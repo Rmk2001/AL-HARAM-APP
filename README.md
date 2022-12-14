@@ -1,4 +1,5 @@
-# AL-HARAM-APP
+# AL-HARAM-APP(JAVA ,JAVAFX , SceneBuilder)
+
 
 
 #Idea of application
@@ -36,4 +37,3 @@ The aim of Al-HARAM Application, any visitors can book Ticket Of Worship and dis
 6- Rating the user can write his opinion about the application and then exit.
 
 
-Using JAVA ,JAVAFX , SceneBuilder
